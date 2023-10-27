@@ -1,3 +1,7 @@
 body {
-  background-color: darkblue;
+  background-color: #953050;
+}
+
+div > img {
+  width: 15rem;
 }
